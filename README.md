@@ -23,16 +23,16 @@ If asked to install the package, press `y`
 
 ## Tasks
 
-### Required task
-- List every user using the [card](https://getbootstrap.com/docs/5.0/components/card/) component;
-- Display in their cards, the count of products each user has using the [badge](https://getbootstrap.com/docs/5.0/components/badge/) component;
-- The page must remain responsive;
+### Required task 
+- List every user using the [card](https://getbootstrap.com/docs/5.0/components/card/) component; - Done
+- Display in their cards, the count of products each user has using the [badge](https://getbootstrap.com/docs/5.0/components/badge/) component; - Done
+- The page must remain responsive; - Done
 - Regarding the optional features you choose to implement, the project should be delivered in a "done" status,
   without incomplete features or broken links;
 
 ### Optional tasks (implement only two of them)
-- Implement a product page/section with a [list group](https://getbootstrap.com/docs/5.0/components/list-group/) ordered by the amount of comments each product has;
-- Implement a contact page/section with a simple contact form (name, email, message) with email validation and print the data in console in JSON format on form submit;
-- Add any feature you consider important for this MVP, and tell us why you think it's important;
+- Implement a product page/section with a [list group](https://getbootstrap.com/docs/5.0/components/list-group/) ordered by the amount of comments each product has;-Done
+- Implement a contact page/section with a simple contact form (name, email, message) with email validation and print the data in console in JSON format on form submit; - Done
+- Add any feature you consider important for this MVP, and tell us why you think it's important;-- (Added All Comments for specific product)
 - Add a comment count in the user card (summing up all their product comments) or in the product list.
 
