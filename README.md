@@ -24,9 +24,9 @@ If asked to install the package, press `y`
 ## Tasks
 
 ### Required task 
-- List every user using the [card](https://getbootstrap.com/docs/5.0/components/card/) component; - Done
-- Display in their cards, the count of products each user has using the [badge](https://getbootstrap.com/docs/5.0/components/badge/) component; - Done
-- The page must remain responsive; - Done
+- List every user using the [card](https://getbootstrap.com/docs/5.0/components/card/) component; ##Done
+- Display in their cards, the count of products each user has using the [badge](https://getbootstrap.com/docs/5.0/components/badge/) component; ##Done
+- The page must remain responsive; - ##Done
 - Regarding the optional features you choose to implement, the project should be delivered in a "done" status,
   without incomplete features or broken links;
 
