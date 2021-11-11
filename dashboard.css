@@ -114,6 +114,17 @@ body {
   color:#0d6efd;
   text-decoration: none;
 }
+.usersEmailInComment {
+  color: grey; 
+  font-size: small; 
+  margin-bottom: 3px
+}
+.usersNameInComment{
+  margin-bottom: 5pc;
+}
+.usersCommentInComment{
+  margin-bottom: 0px;
+}
 @media only screen and (max-width: 600px) {
   .card-group{
       display: flex;
